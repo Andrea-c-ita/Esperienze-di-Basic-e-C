@@ -1,4 +1,5 @@
 //console.log("Ciao Mondo!");
-let nome 
-nome = "Andrea";
-console.log(nome);
+let nome = "Andrea";
+let eta = 50;
+let stipendio = 1400;
+console.log(nome, eta, stipendio);
