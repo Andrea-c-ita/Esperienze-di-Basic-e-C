@@ -2,4 +2,5 @@
 let nome = "Andrea";
 let eta = 50;
 let stipendio = 1400;
-console.log( "Ciao " + nome,"hai" + eta, "guadagno" + stipendio);
+let flotto = 1.45;
+console.log( "Ciao " + nome,"hai" + eta, "guadagno" + stipendio, flotto);
