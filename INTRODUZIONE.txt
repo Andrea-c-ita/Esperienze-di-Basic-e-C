@@ -1,5 +1,35 @@
-questa è una introdizione al Basic!
+[center] [size=18] [color=indigo] [b] MODULO DI ORMEGGIO [/b] [/color] [/size] [/center]
+
+[i] [center] Per elaborare la tua richiesta di ormeggio nel modo più efficiente possibile, compila questo modulo.
+Si prega di scrivere  [u]correttamente[/u] i nomi dei passeggeri e dell'equipaggio. [/center]
+
+[b] [color=red] [center] [u] ATTENZIONE [/u]
+Il mancato rispetto delle leggi emanate e delle condizioni di accesso fissate con la Capitaneria di Porto è passibile di azione legale. [/center] [/b] [/color] [/i]
+
+[b] Per ogni nave, qualunque sia la sua bandiera, deve essere fornito: [/b]
+
+[b] - Porta di destinazione: Bèzel [/b]
+[b] - Nome della nave: Arcadia [/b]
+[b] - Nome del proprietario: Amos_barrowfield [/b]
+[b] - Nome del capitano: Amos_barrowfield [/b]
+[b] - Tipo di nave: Galea Genovese[/b]
+[b] - Elenco dei passeggeri: Amos_barrowfield (Capitaine du bateau) Thorum Vonluis (Equipage) [/b]
+[b] - Data di arrivo prevista: 24 - 25 aprile[/b]
+
+[b] Per [u] una bandiera NON Linguadoca [/u]: [/b]
+[b] - Durata dello scalo (in giorni): 5 [/b]
+[b] - Data di partenza prevista: 29 aprile [/b]
+[b] - Motivo dello scalo: Sbarco passeggeri e visita della citta'[/b]
 
 
+[b] Hai intenzione di vendere la tua nave nel prossimo futuro? No[/b]
+[b] - Accetti di rispettare le norme fiscali stabilite dalla Carta? Si [/b]
+[i] Il decreto marittimo può essere visualizzato [url=http://forum2.lesroyaumes.com/viewtopic.php?t=950986] qui [/url]
 
--introduzine
+ I [b] Amos_barrowfield [/b], capitano della nave [b] Arcadia [/b], certifico questa [b] 23 aprile 1467 [/b] conforme presente nelle leggi in vigore nella Contea della Linguadoca.
+Ho preso atto della durata massima del soggiorno concessa dalla Capitaneria di Porto, che in caso di richiesta di proroga questa potrebbe essere rifiutata dalla Capitaneria di Porto, per cui dovrei lasciare il porto il [b] 29 aprile [/b].
+Che se dovessi infrangere le suddette leggi, sarei passibile di accusa. [/i]
+
+Data e firma
+li 23 aprile 1467
+Amos_barrowfield
